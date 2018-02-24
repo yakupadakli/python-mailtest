@@ -1,0 +1,6 @@
+*.pyc
+
+.idea/
+build/
+dist/
+python_mailtest.egg-info/
