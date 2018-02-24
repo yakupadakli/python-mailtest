@@ -19,3 +19,8 @@ Github and install it manually:
 Python 2.7, 3.4, 3.5 and 3.6, is supported for now.
 
 ## Usage
+    
+    from mailtest.api import Api
+    
+    api = Api()
+    api.check("active.mailtest.in")
